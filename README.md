@@ -1,3 +1,4 @@
+
 <!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00A2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ambuj+Kanaujiya;AI+%7C+Machine+Learning+Engineer;Full-Stack+Developer+%7C+Tech+Explorer" />
@@ -5,9 +6,9 @@
 
 ---
 
-<!-- Neon Banner -->
+<!-- Working Banner GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/zkQ5P4Y.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 </p>
 
 ---
@@ -24,11 +25,11 @@
 ---
 
 ## 🚀 **About Me**
-- 🤖 Passionate about **AI, ML, LLMs & Automation**  
-- 🌱 Currently learning **Advanced Deep Learning + LLM Fine-Tuning**  
-- 👨‍💻 Building **Full-Stack & AI-powered apps**  
-- 🎯 Goal: Become an **Expert AI Engineer** in 2026  
-- 📧 Email: **ambujkanaujiya991@gmail.com**  
+- 🤖 Passionate about **AI, Machine Learning, LLMs & Automation**
+- 🌱 Learning **Deep Learning + AI Model Building**
+- 👨‍💻 Building **AI-powered & Full-Stack apps**
+- 🧠 2026 Goal → Become an **Expert AI Engineer**
+- 📧 **ambujkanaujiya991@gmail.com**
 - ⚡ Fun fact: *I fix bugs faster than I create them 😄*
 
 ---
@@ -60,11 +61,11 @@
 - 🤖 AI Chatbots  
 - 🔍 ML Classification Models  
 - 🧠 Deep Learning Neural Networks  
-- 📊 Automated Data Pipelines  
+- 📊 Automated Data Systems  
 
 ### 🔹 Web Dev  
 - 🌐 Full-Stack Apps (React + Node.js)  
-- ⚡ Real-Time Apps (Socket, Firebase)  
+- ⚡ Real-Time Apps  
 - 🎨 Portfolio Websites  
 - 🛢 REST APIs  
 
@@ -99,18 +100,18 @@
 
 ---
 
-## ⚡ **Activity Graph**
+## ⚡ **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambujkanaujiya&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Goals 2026
+## 🎯 2026 Goals
 - 🚀 Build real AI products  
 - 🧠 Master Deep Learning  
-- 🌍 More Open-Source Contributions  
-- 💻 Strengthen Full-Stack + DevOps  
+- 🌍 Open-Source Contribution  
+- 💻 Improve Full-Stack + DevOps  
 
 ---
 

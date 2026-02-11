@@ -21,7 +21,7 @@
 - 👀 Interested in **Artificial Intelligence, Machine Learning & Full-Stack Development**  
 - 🌱 Currently learning **Deep Learning + AI Models**  
 - 🤝 Open for **ML, AI, and Web Dev collaborations**  
-- 📧 Email: **ambujkanaujiya@gmail.com**  
+- 📧 Email: **ambujkanaujiya991@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: “**I fix bugs faster than I create them 😄**”  
 
